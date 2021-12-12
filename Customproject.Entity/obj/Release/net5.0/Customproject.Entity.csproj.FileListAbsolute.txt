@@ -1,0 +1,15 @@
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\bin\Release\net5.0\Customproject.Entity.deps.json
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\bin\Release\net5.0\Customproject.Entity.dll
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\bin\Release\net5.0\ref\Customproject.Entity.dll
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\bin\Release\net5.0\Customproject.Entity.pdb
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\bin\Release\net5.0\customProject.Common.dll
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\bin\Release\net5.0\customProject.Common.pdb
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\obj\Release\net5.0\Customproject.Entity.csproj.AssemblyReference.cache
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\obj\Release\net5.0\Customproject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\obj\Release\net5.0\Customproject.Entity.AssemblyInfoInputs.cache
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\obj\Release\net5.0\Customproject.Entity.AssemblyInfo.cs
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\obj\Release\net5.0\Customproject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\obj\Release\net5.0\Customproject.Entity.csproj.CopyComplete
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\obj\Release\net5.0\Customproject.Entity.dll
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\obj\Release\net5.0\ref\Customproject.Entity.dll
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\Customproject.Entity\obj\Release\net5.0\Customproject.Entity.pdb

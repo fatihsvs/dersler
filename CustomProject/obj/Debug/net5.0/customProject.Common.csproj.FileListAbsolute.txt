@@ -1,0 +1,12 @@
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\obj\Debug\net5.0\customProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\obj\Debug\net5.0\customProject.Common.AssemblyInfoInputs.cache
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\obj\Debug\net5.0\customProject.Common.AssemblyInfo.cs
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\obj\Debug\net5.0\customProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\bin\Debug\net5.0\customProject.Common.deps.json
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\bin\Debug\net5.0\customProject.Common.dll
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\bin\Debug\net5.0\ref\customProject.Common.dll
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\bin\Debug\net5.0\customProject.Common.pdb
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\obj\Debug\net5.0\customProject.Common.dll
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\obj\Debug\net5.0\ref\customProject.Common.dll
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\obj\Debug\net5.0\customProject.Common.pdb
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProject\obj\Debug\net5.0\customProject.Common.csproj.AssemblyReference.cache

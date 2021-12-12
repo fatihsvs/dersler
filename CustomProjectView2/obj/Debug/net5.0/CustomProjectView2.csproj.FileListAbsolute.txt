@@ -1,0 +1,5 @@
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProjectView2\obj\Debug\net5.0\CustomProjectView2.csproj.AssemblyReference.cache
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProjectView2\obj\Debug\net5.0\CustomProjectView2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProjectView2\obj\Debug\net5.0\CustomProjectView2.AssemblyInfoInputs.cache
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProjectView2\obj\Debug\net5.0\CustomProjectView2.AssemblyInfo.cs
+C:\Users\ECR_EXCALIBUR_G770\source\repos\CustomProject\CustomProjectView2\obj\Debug\net5.0\CustomProjectView2.csproj.CoreCompileInputs.cache
